@@ -1,4 +1,4 @@
-# PoseAI — 3D Human Pose Estimation Web App
+# Lift — 3D Human Pose Estimation Web App
 
 ## Project Structure
 ```
