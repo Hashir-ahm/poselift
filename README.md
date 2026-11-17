@@ -91,7 +91,7 @@ model-training/      Training notebooks
 
 ```bash
 cd backend
-pip install -r requirements.txt
+pip install -r requirements.txt --extra-index-url https://download.pytorch.org/whl/cpu
 uvicorn main:app --reload --port 8000
 ```
 
